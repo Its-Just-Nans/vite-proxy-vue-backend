@@ -1,6 +1,6 @@
 # vite-proxy-vue-backend
 
-A super tiny project using [Vue.js](https://github.com/vuejs/) and [Polka](https://github.com/lukeed/polka) to play with the vite config
+A super tiny project using [Vue.js](https://github.com/vuejs/) and [Polka](https://github.com/lukeed/polka) to [play with the vite config](https://github.com/vitejs/vite/discussions/6455)
 
 ## Usage
 
